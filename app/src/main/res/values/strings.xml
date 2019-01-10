@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConstraintLayoutDemo</string>
+    <string name="str_headerImage_description">Header Image</string>
+    <string name="str_PosterImage_description">Poster Image</string>
+    <string name="str_title">Beauty and the Beast</string>
+    <string name="str_date">March 2017 PG 129 minutes</string>
+</resources>
